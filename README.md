@@ -7,7 +7,7 @@
 - Gravação de coordenadas do mouse (para dois pontos: "Lead" e "Concluir").
 - Execução de cliques automáticos com intervalo ajustável.
 - Interface gráfica simples e amigável, feita com **Tkinter**.
-- Atalho global (`Insert`) para parar o Auto-Click a qualquer momento.
+- Atalho global (`F5`) para parar o Auto-Click a qualquer momento.
 - Design com tema escuro e marca d'água personalizada (*StuartCripto*).
 
 ---
@@ -53,3 +53,5 @@ Se você deseja rodar ou modificar o código Python e criar seu próprio `.exe`,
    ```bash
    git clone https://github.com/seu-usuario/SmartClick.git
    cd SmartClick
+📜 Licença
+Este projeto está licenciado sob a MIT License.
