@@ -1,4 +1,4 @@
-# SmartClick - Auto Clicker Personalizado
+# SmartClick - Auto Clicker
 
 **SmartClick** é uma aplicação simples e eficiente para automação de cliques, desenvolvida com Python e PyAutoGUI. Ele permite que o usuário grave coordenadas específicas na tela e automatize cliques nessas posições repetidamente. Ideal para tarefas repetitivas que envolvem cliques em áreas específicas.
 
